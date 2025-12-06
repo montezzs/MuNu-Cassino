@@ -1,12 +1,12 @@
 # Munu Cassino
 
-## Munu Cassino é um projeto educacional e recreativo que simula jogos clássicos de cassino utilizando lógica de programação. O objetivo principal do projeto é praticar estruturas de controle, variáveis, algoritmos e lógica, não incentivar apostas reais.
+### Munu Cassino é um projeto educacional e recreativo que simula jogos clássicos de cassino utilizando lógica de programação. O objetivo principal do projeto é praticar estruturas de controle, variáveis, algoritmos e lógica, não incentivar apostas reais.
 
 ## Jogos 
-♠️ Vinte e Um (Blackjack simplificado)
-🐎 Aposta em Cavalos
-🎱 Bingo
-🃏 Adivinhe a Carta
+Vinte e Um (Blackjack simplificado)
+Aposta em Cavalos
+Bingo
+Adivinhe a Carta
 
 ## Como executar
 Abra o Portugol Studio
